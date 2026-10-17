@@ -15,7 +15,7 @@ The page is built to feel like one of my paintings: a teal wall with an arch tak
 
 - Fonts: [Fraunces](https://fonts.google.com/specimen/Fraunces) and [DM Sans](https://fonts.google.com/specimen/DM+Sans) via Google Fonts (SIL Open Font License)
 - AI assistance: Claude (Anthropic) was used to help write and debug the code, as the assignment guidelines allow. The content, projects and personality described are my own.
-- Images: all paintings and photos in `images/` are my own work.
+- Images: all paintings and photos (the .jpg files) are my own work.
 - No templates or third-party code snippets were used.
 
 ## Run locally
